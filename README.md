@@ -1,4 +1,4 @@
-# Vithuna ⭐
+# Vithuna 
 
 **IT student** figuring out how to turn vibes into models.
 
