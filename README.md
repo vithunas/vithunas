@@ -1,4 +1,3 @@
-## Hi there 👋
 # Vithuna 🛰️
 
 **IT student** figuring out how to turn vibes into models.
@@ -10,11 +9,16 @@ Currently obsessed with ML, breaking things with Python, and building stuff that
 
 ## what i'm working with
 
-![Python](https://img.shields.io/badge/Python-not_bad-blue)
-![PySpark](https://img.shields.io/badge/PySpark-big_data_energy-purple)
-![XGBoost](https://img.shields.io/badge/XGBoost-my_bestie-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-makes_it_look_real-red)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PySpark](https://img.shields.io/badge/PySpark-purple)
+![XGBoost](https://img.shields.io/badge/XGBoost-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-grey)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![SQL](https://img.shields.io/badge/SQL-blue)
+![Git](https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -32,11 +36,6 @@ Built an end-to-end ML pipeline — PySpark for data ingestion, XGBoost with hyp
 > Trying to become an ML / AI engineer.
 > One model at a time. One bug fix at a time. One vibe at a time.
 
----
-
-## github stats
-
-![Vithuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=vithunas&show_icons=true&theme=default&hide_border=true)
 
 ---
 
